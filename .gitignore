@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+bin/Debug/cooper.jar
+bin/Debug/org.me.androidapplication2.jar
+bin/Debug/org.me.androidapplication2.apk
+bin/Release/cooper.jar
+bin/Release/org.me.androidapplication2.jar
+bin/Release/org.me.androidapplication2.apk
+obj/Debug/Android/AndroidManifest.xml
+obj/Debug/Android/org.me.androidapplication2.elements.FileListAbsolute.txt
